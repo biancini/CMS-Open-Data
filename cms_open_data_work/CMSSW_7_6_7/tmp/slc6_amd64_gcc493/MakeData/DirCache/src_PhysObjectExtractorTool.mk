@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=PhysObjectExtractorTool
+subdirs_src_PhysObjectExtractorTool = src_PhysObjectExtractorTool_PhysObjectExtractor

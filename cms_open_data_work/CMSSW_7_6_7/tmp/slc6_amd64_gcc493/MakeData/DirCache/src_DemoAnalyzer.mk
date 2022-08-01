@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=DemoAnalyzer
+subdirs_src_DemoAnalyzer = src_DemoAnalyzer_test src_DemoAnalyzer_python src_DemoAnalyzer_plugins src_DemoAnalyzer_doc

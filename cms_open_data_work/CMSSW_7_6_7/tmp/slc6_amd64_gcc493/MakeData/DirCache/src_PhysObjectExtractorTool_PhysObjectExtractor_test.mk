@@ -1,3 +1,0 @@
-ALL_COMMONRULES += src_PhysObjectExtractorTool_PhysObjectExtractor_test
-src_PhysObjectExtractorTool_PhysObjectExtractor_test_parent := PhysObjectExtractorTool/PhysObjectExtractor
-src_PhysObjectExtractorTool_PhysObjectExtractor_test_INIT_FUNC += $$(eval $$(call CommonProductRules,src_PhysObjectExtractorTool_PhysObjectExtractor_test,src/PhysObjectExtractorTool/PhysObjectExtractor/test,TEST))
